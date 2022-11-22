@@ -5,8 +5,8 @@ local handleMods = {
 	{"fInitialDragCoeff", 91.22},
 	{"fDriveInertia", .35},
 	{"fSteeringLock", 22},
-	{"fTractionCurveMax", -1.1},
-	{"fTractionCurveMin", -.4},
+	{"fTractionCurveMax", -1.5},
+	{"fTractionCurveMin", -.5},
 	{"fTractionCurveLateral", 2.5},
 	{"fLowSpeedTractionLossMult", -.57}
 }
