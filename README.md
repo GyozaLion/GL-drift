@@ -4,6 +4,7 @@ A simple drift-mode script for fiveM. Toggle the drifting mode with `shift`. The
 modified Version off MoravianLion Drift Scrift
 original repo : https://github.com/MoravianLion/Drift-Script
 now its support qb-notify and okokNotify
+and fixing some issues
 
 ## Configuration
 
